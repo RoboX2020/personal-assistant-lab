@@ -31,7 +31,7 @@ Default `DATA_MODE=synthetic` and `MODEL_ROUTE=unpaid`: use only invented test f
 
 The model adapter refuses `DATA_MODE=real` unless `MODEL_ROUTE=paid-reviewed`. That setting is an operator attestation, not an automatic provider/privacy audit. Do not change it without actually reviewing the provider's data terms, billing and user permission. Billing is not enabled by this project.
 
-WhatsApp is an inactive target channel. Meta restricts general-purpose AI assistants on its Business Platform except permitted markets. Eligibility for a US personal-assistant use case is not established. Unofficial clients are not included and are not a recommended policy bypass. See [public-source design](docs/design.md).
+WhatsApp is an inactive target channel. Meta restricts general-purpose AI assistants on its Business Platform except permitted markets. Eligibility for a US personal-assistant use case is not established. Unofficial clients are not included and are not a recommended policy bypass. See docs/design.md inside the extracted source distribution.
 
 ## Source distribution
 
